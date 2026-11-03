@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Maven build output
+target/
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
